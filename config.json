@@ -1,0 +1,13 @@
+{
+  "homeCount": 200,
+  "hashtagCount": 20,
+  "hashtagList": [
+    { "name": "hashtagname" }
+  ],
+  "ignoreExact": [
+    "ignorethis"
+  ],
+  "ignoreMatch": [
+    "ignorethismatch"
+  ]
+}
